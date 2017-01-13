@@ -28,3 +28,9 @@ You will be assigned a Bitbucket Cloud account.
 * [add an SSH key](https://confluence.atlassian.com/bitbucket/add-an-ssh-key-to-an-account-302811853.html) to the account.
 * Download and setup [SourceTree](https://confluence.atlassian.com/bitbucket/set-up-sourcetree-603488472.html) for a GUI for Git and Mercurial projects
 * Set up [Mercurial](https://confluence.atlassian.com/bitbucket/set-up-mercurial-726371757.html) if you haven't already. Make an .hgrc file in your home directory, following [these instructions](https://confluence.atlassian.com/bitbucket/set-up-mercurial-726371757.html)
+
+Here's a [quick start guide](https://www.mercurial-scm.org/quickstart) to Mercurial.
+
+###Feature branch workflow and Pull Requests
+
+Coming soon...
